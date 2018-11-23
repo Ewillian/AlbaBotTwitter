@@ -4,7 +4,7 @@
 
 ## Objectif
 
-A l'aide de clefs d'accès twitter, fais touner un bot qui, à l'aide de mots clefs cherche des tweets, s'abonne au créateur et aux personnes mentionnées, retweet et mentionne quelqu'un.
+A l'aide de clefs d'accès twitter, fais tourner un bot qui, à l'aide de mots clefs cherche des tweets, s'abonne au créateur et aux personnes mentionnées, retweet et mentionne quelqu'un.
 
 ## Prérequis
 
@@ -19,4 +19,4 @@ A l'aide de clefs d'accès twitter, fais touner un bot qui, à l'aide de mots cl
 ## Membre du Projet
 
 * Guillaume Le Coq
-* Peul Hivert
+* Paul Hivert
