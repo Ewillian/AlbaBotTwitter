@@ -16,7 +16,7 @@ A l'aide de clefs d'accès twitter, fais tourner un bot qui, à l'aide de mots c
 * [Langage C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/programming-guide/).
 * [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/).
 
-## Membre du Projet
+## Membres du Projet
 
 * Guillaume Le Coq
 * Paul Hivert
