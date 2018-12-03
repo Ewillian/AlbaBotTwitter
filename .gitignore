@@ -1,4 +1,4 @@
 #Ignored files
-.vs
-AlbabotTwitter.sln
-AlbabotTwitter.csproj
+AlbaBotTwitter\.vs
+AlbaBotTwitter\AlbabotTwitter.sln
+AlbaBotTwitter\AlbabotTwitter.csproj
